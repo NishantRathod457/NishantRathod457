@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Nishant Rathod
 
 Welcome to my GitHub! I'm passionate about coding, building cool projects, and always learning something new.
 
