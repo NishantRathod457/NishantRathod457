@@ -6,7 +6,6 @@ Welcome to my GitHub! I'm passionate about coding, building cool projects, and a
 
 ## 🚀 About Me
 
-- 💻 I’m currently working on: BeatsVibe
 - 🌱 I’m currently learning: Full-Stack-Developement
 - 🤝 I’m open to collaborate on: Open-source projects related to music tech, AI-driven recommendations, or clean, scalable front-end design systems.
 - 🧠 Interests: AI, Web Dev, Game Dev..
